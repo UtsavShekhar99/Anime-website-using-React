@@ -2,7 +2,7 @@
 
 A immersive fan-made **Attack on Titan** themed website built using **React.js** and **Tailwind CSS**.
 
-Live Demo: [Coming Soon or Add Link Here]
+Live Demo: [Coming Soon]
 
 ---
 
@@ -14,12 +14,6 @@ Live Demo: [Coming Soon or Add Link Here]
 - 🦾 3D-like character and titan card carousel
 - 🔥 Custom fonts and AOT-styled theme
 - 👥 Character and Titan data dynamically rendered from `data/` files
-
----
-
-## 📸 Screenshots
-
-![screenshot](./public/assets/screenshot.png)
 
 ---
 
