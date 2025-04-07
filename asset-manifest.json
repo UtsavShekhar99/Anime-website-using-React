@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Anime-website-using-React/static/css/main.37f7272d.css",
+    "main.js": "/Anime-website-using-React/static/js/main.994b1c4b.js",
+    "static/js/453.dcc9840c.chunk.js": "/Anime-website-using-React/static/js/453.dcc9840c.chunk.js",
+    "static/media/Ditty.ttf": "/Anime-website-using-React/static/media/Ditty.a6dc238f711951baff90.ttf",
+    "index.html": "/Anime-website-using-React/index.html",
+    "main.37f7272d.css.map": "/Anime-website-using-React/static/css/main.37f7272d.css.map",
+    "main.994b1c4b.js.map": "/Anime-website-using-React/static/js/main.994b1c4b.js.map",
+    "453.dcc9840c.chunk.js.map": "/Anime-website-using-React/static/js/453.dcc9840c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37f7272d.css",
+    "static/js/main.994b1c4b.js"
+  ]
+}
